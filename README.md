@@ -14,8 +14,8 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 | 3 | Signal Diode | 1N4148TR | makerbazar.in | 4(pack of 10) | 0.15 | 0.6 | |
 | 4 | Raspberry Pi Pico | SC0917 | makerbazar.in | 1 | 6.12 | 6.12 | |
 | 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | Exixting | 3 | 0 | Already have | |
-| 6 | PCB Fabrication | JLCPCB | JLCPCB | 1 | 51.11 |51.11 | |
-| 7 | PCB Shipping | JLCPCB Shipping | JLCPCB | 27.37 |  | 27.37 | |
+| 6 | PCB Fabrication | SeedStudio PCB | JLCPCB | 1 | 51.11 |51.11 | |
+| 7 | PCB Shipping | seedstudio Shipping | JLCPCB | 27.37 |  | 27.37 | |
 | 8 | Rotary Encoder | EC11 | Existing | 3 | 0 | 0 | Already have |
 | 9 | M3 Screws | M3x16mm | Existing | 4 | 0 | 0 | Already have |
 | 10 | M3 Heat-set Inserts | M3 Heatset | Existing | 4 | 0 | 0 | Already have |

@@ -1,5 +1,6 @@
 # MIRA-Custom-MIDI-
-<br><img width="874" height="549" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/10fc573d-59b4-4bd2-b1b9-b9b6d81701bb" />
+<br><img width="1194" height="599" alt="Screenshot 2026-04-27 194536" src="https://github.com/user-attachments/assets/5c7d1d2a-6567-4b7c-a94c-eb428d30fde7" />
+
 <br>
 I started with layout It has 40 Keys in 10 x 4 Layout.Top two layers are for High octave and bottom two for Low octave the three sliders are for Filter,Reverb,Modulation and three encoders are for Volume, Tempo, Track control.I used Matrix so it uses less Gpios, It is based on Raspberry Pico.
 PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circuit python and uses Adafruit MIDI Library.
@@ -23,21 +24,16 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 **$111**
 
 ## Schematic & PCB
-<br><img width="1162" height="651" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/6d3bd7b6-d16d-4338-ad82-9379a52a076d" />
-<br><img width="833" height="741" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/652f8473-68a6-49f3-9b05-6f87960341d8" />
 <br>
-
-## 3d Case
-<br>
-<img width="1091" height="394" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/4d76a651-c0e3-466d-84c0-cfdebe6fa342" />
+<br><img width="1158" height="916" alt="Screenshot 2026-04-27 193842" src="https://github.com/user-attachments/assets/91fe8386-47a6-4da8-9cf7-53f5fb2f5688" />
+<img width="1185" height="692" alt="Screenshot 2026-04-27 193922" src="https://github.com/user-attachments/assets/e8cb71c1-ed05-409f-984a-e07d278dd5ed" />
 
 <br>
+
+
 
 ## 3d Render
-<br>
-<img width="956" height="660" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/506030db-fc60-4bc6-b42b-235bc61e4169" />
-
-<br><img width="897" height="474" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/9f971a1f-d11b-4bc2-8e88-5bf80a0b1af9" />
-<br><img width="874" height="549" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/24e8e2ed-fdcf-4bb9-b202-5ba202910732" />
+<br><img width="1161" height="703" alt="Screenshot 2026-04-27 194443" src="https://github.com/user-attachments/assets/4bfccf7b-dfc1-420b-a174-af3b29fd94f1" />
 
 
+<br><img width="1194" height="599" alt="Screenshot 2026-04-27 194536" src="https://github.com/user-attachments/assets/2f65c053-7abd-4c0b-bc9d-73161e88cc29" />

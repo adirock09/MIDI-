@@ -13,7 +13,7 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 | 2 | Keycaps Set | MX Compatible Keycaps | meckeys.com | 8(pack of 5) | 1.1 | 8.8 | For 40 keys |
 | 3 | Signal Diode | 1N4148TR | makerbazar.in | 4(pack of 10) | 0.15 | 0.6 | |
 | 4 | Raspberry Pi Pico | SC0917 | makerbazar.in | 1 | 6.12 | 6.12 | |
-| 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | Exixting | 3 | 0 | Already have | |
+| 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | Existing | 3 | 0 | Already have | |
 | 6 | PCB Fabrication | SeedStudio PCB | seeedstudio.com | 1 | 51.11 |51.11 | |
 | 7 | PCB Shipping | seedstudio Shipping | seeedstudio.com | 27.37 |  | 27.37 | |
 | 8 | Rotary Encoder | EC11 | Existing | 3 | 0 | 0 | Already have |

@@ -4,9 +4,9 @@ Index,Component,Part Number,Source,Quantity,Unit Price (USD),Total Price (USD),N
 3,Signal Diode,1N4148TR,makerbazar.in,4(pack of 10),0.15,0.6,
 4,Raspberry Pi Pico,SC0917,makerbazar.in,1,6.12,6.12,
 5,Slide Potentiometer 10K,PTL60-15R0-103B2,already have,3,0,0,
-6,PCB Fabrication,JLCPCB,JLCPCB,1,15.80,15.80,
-7,PCB Shipping,JLCPCB Shipping,JLCPCB,1,17.77,17.77,
+6,PCB Fabrication,JLCPCB,JLCPCB,1,51.11,51.11,
+7,PCB Shipping,JLCPCB Shipping,JLCPCB,1,27.37,27.37,
 8,Rotary Encoder,EC11,Existing,3,0,0,Already owned
 9,M3 Screws,M3x16mm,Existing,4,0,0,Already owned
 10,M3 Heat-set Inserts,M3 Heatset,Existing,4,0,0,Already owned
-11,Total,,,,,$66.02,
+11,Total,,,,,$111,
